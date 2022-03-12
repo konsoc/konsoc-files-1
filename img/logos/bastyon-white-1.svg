@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 170.56 170.17"
+   version="1.1"
+   sodipodi:docname="bastyon-white.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="2.3770347"
+     inkscape:cx="204.66676"
+     inkscape:cy="133.14909"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Слой_1" />
+  <defs
+     id="defs44">
+    <style
+       id="style34">.cls-1{fill:url(#Безымянный_градиент_7);}.cls-2{fill:url(#Безымянный_градиент_7-2);}.cls-3{fill:url(#Безымянный_градиент_7-3);}.cls-4{fill:url(#Безымянный_градиент_7-4);}</style>
+    <linearGradient
+       id="Безымянный_градиент_7"
+       x1="28.72"
+       y1="86.74"
+       x2="28.72"
+       y2="0.97"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00a4ff"
+         id="stop36" />
+      <stop
+         offset="1"
+         stop-color="#142163"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       id="Безымянный_градиент_7-2"
+       x1="85.15"
+       y1="28.72"
+       x2="169.47"
+       y2="28.72"
+       xlink:href="#Безымянный_градиент_7"
+       gradientTransform="matrix(0.84707483,0,0,0.84707483,13.041459,13.015461)" />
+    <linearGradient
+       id="Безымянный_градиент_7-3"
+       x1="141.94"
+       y1="84.34"
+       x2="143.23"
+       y2="171.51"
+       xlink:href="#Безымянный_градиент_7"
+       gradientTransform="matrix(0.84707483,0,0,0.84707483,13.041459,13.015461)" />
+    <linearGradient
+       id="Безымянный_градиент_7-4"
+       x1="85.47"
+       y1="141.48"
+       x2="0.15"
+       y2="141.48"
+       xlink:href="#Безымянный_градиент_7"
+       gradientTransform="matrix(0.84707483,0,0,0.84707483,13.041459,13.015461)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Безымянный_градиент_7"
+       id="linearGradient1087"
+       gradientUnits="userSpaceOnUse"
+       x1="28.72"
+       y1="86.74"
+       x2="28.72"
+       y2="0.97"
+       gradientTransform="matrix(0.84707483,0,0,0.84707483,13.041459,13.015461)" />
+  </defs>
+  <title
+     id="title46">pocketnet logo</title>
+  <rect
+     style="fill:#ffffff"
+     id="rect1111"
+     width="170.56"
+     height="170.17"
+     x="0"
+     y="0"
+     rx="40.299999" />
+  <path
+     class="cls-1"
+     d="m 43.154969,108.5655 -0.203298,-0.37271 v 0 A 47.986789,47.986789 0 0 1 61.705908,43.137442 L 49.524971,24.933804 A 58.609107,58.609107 0 0 0 35.69224,35.632359 69.926027,69.926027 0 0 0 24.053431,119.06076 v 0 a 10.952678,10.952678 0 0 1 1.414615,5.39587 11.011973,11.011973 0 0 1 -3.218884,7.77614 l -9.207703,9.21618 15.425232,15.42523 9.50418,-9.54653 a 32.900386,32.900386 0 0 0 4.963858,-6.5733 32.807208,32.807208 0 0 0 0.228711,-32.18885 z"
+     id="path48"
+     style="fill:url(#linearGradient1087);stroke-width:0.847075" />
+  <path
+     class="cls-2"
+     d="M 134.83388,35.666242 A 69.926027,69.926027 0 0 0 51.405478,24.027434 v 0 a 10.952678,10.952678 0 0 1 -5.395867,1.414615 11.011973,11.011973 0 0 1 -7.776147,-3.218884 l -9.216174,-9.207704 -15.425233,15.425233 9.546534,9.50418 a 32.680147,32.680147 0 0 0 22.87102,9.317823 32.637793,32.637793 0 0 0 16.263837,-4.311611 v 0 a 47.986789,47.986789 0 0 1 65.055342,18.754236 l 18.55941,-11.66422 a 62.852952,62.852952 0 0 0 -11.05432,-14.37486 z"
+     id="path50"
+     style="fill:url(#%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82_7-2);stroke-width:0.847075" />
+  <path
+     class="cls-3"
+     d="m 134.85929,134.65541 a 69.926027,69.926027 0 0 0 11.63034,-83.428403 v 0 a 11.011973,11.011973 0 0 1 1.80427,-13.172014 l 9.22464,-9.216174 -15.42523,-15.416762 -9.51265,9.538063 a 32.798737,32.798737 0 0 0 -4.9808,39.134857 v 0 a 47.986789,47.986789 0 0 1 -18.75424,65.055343 l 12.56212,18.00881 c 5.52293,-3.07488 8.85193,-5.92952 13.45155,-10.50372 z"
+     id="path52"
+     style="fill:url(#%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82_7-3);stroke-width:0.847075" />
+  <path
+     class="cls-4"
+     d="m 147.4807,132.2243 a 32.798737,32.798737 0 0 0 -39.13485,-4.9808 v 0 A 48.190087,48.190087 0 0 1 43.121086,108.60786 v 0 a 32.807208,32.807208 0 0 1 -0.22871,32.18884 69.95991,69.95991 0 0 0 76.236734,5.37892 v 0 a 11.011973,11.011973 0 0 1 13.17201,1.80427 l 9.21618,9.22465 15.52688,-15.4337 z"
+     id="path54"
+     style="fill:url(#%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82_7-4);stroke-width:0.847075" />
+</svg>
